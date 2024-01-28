@@ -17,7 +17,7 @@ Expected result:
 Without -fno*
 out_0: 0
 With -fno*
-out_0: 1
+out_0: 0
 ```
 
 Actual result:
